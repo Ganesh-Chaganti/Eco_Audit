@@ -1,10 +1,11 @@
 # Eco_Audit
-Title: ECOAUDIT — SUSTAINABILITY MULTI-AGENT AUDITOR
+Title: ECOAUDIT-SUSTAINABILITY MULTI-AGENT AUDITOR
 
-Dataset: I am choosing the CSR/ESG Reports dataset.It contains more than 30 columns and is available in CSV format. The dataset includes information like company name, industry sector, carbon emissions, renewable energy usage, and sustainability claims.
-Problem Statement: Build a multi-agent AI system to detect greenwashing by verifying sustainability claims made in corporate CSR reports against real industry benchmark data.
+Dataset: I am choosing the CSR (Corporate Social Responsibility) reports dataset from ResponsibilityReports.com. It contains more than 30 columns and is available in CSV format. The dataset includes information like company name, industry type, carbon emissions, and energy usage.
 
-Goal:The main goal of this project is to automatically extract environmental claims from Fortune 500 CSR reports and verify whether those claims are truthful, misleading, or greenwashed using a RAG-based benchmark database.
+Problem Statement: Build an Multi Agent AI system to detect greenwashing by checking whether the sustainability claims made by companies in their CSR reports are true or false when compared to real industry data.
+
+Goal:The main goal of this project is to read company sustainability reports and automatically find out if the company is telling the truth about their environmental performance or not.
 
 Columns Impacting Project:
 Company: COMPANY_NAME, INDUSTRY_SECTOR, REPORT_YEAR
@@ -14,8 +15,6 @@ Verification: THIRD_PARTY_VERIFIED, VERIFICATION_BODY, REPORTING_STANDARD
 Output: CO2_CLAIM_VERDICT, OVERALL_GREENWASH_VERDICT
 
 Project Helpful For:
-Investors to verify ESG claims before making green investments.
-Government regulators to enforce environmental compliance laws.
-Journalists and NGOs to investigate corporate greenwashing.
+Investors to know if a company is truly eco-friendly before investing.Government to check if companies are following environmental laws.General public to know which companies are honest about the environment.
 
 Conclusion: This project helps in understanding how accurately companies report their environmental performance and can be useful for promoting transparency, accountability, and genuine sustainability in the corporate world.
