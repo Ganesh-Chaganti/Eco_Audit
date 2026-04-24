@@ -1,7 +1,7 @@
 # Eco_Audit
 Title: ECOAUDIT-SUSTAINABILITY MULTI-AGENT AUDITOR
 
-Dataset: I am choosing the CSR (Corporate Social Responsibility) reports dataset from ResponsibilityReports.com. It contains more than 30 columns and is available in CSV format. The dataset includes information like company name, industry type, carbon emissions, and energy usage.
+Dataset: I am choosing the CSR (Corporate Social Responsibility) reports dataset.It contains more than 30 columns and is available in CSV format. The dataset includes information like company name, industry type, carbon emissions, and energy usage.
 
 Problem Statement: Build an Multi Agent AI system to detect greenwashing by checking whether the sustainability claims made by companies in their CSR reports are true or false when compared to real industry data.
 
